@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 651cfc57b6cc1fe4daea48d62af18099
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d828f9a73f47418faaf7bb611b8e6
+      internalID: -2120062458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cedd2d53aaa649439a7f09d08d2ddcc
+      internalID: -1513252206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228e99a1629efa499e12a0d68816eab
+      internalID: 2077775660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b62cb002a48a041b9f2975adbaa50d
+      internalID: -968277898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800013f37a8da6419c53f88015bf301
+      internalID: 605116006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 112
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76328367239a84945ac99ad9dcc01fbd
+      internalID: -1230168739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d811f4524225647bd7cc3d6d82bfb9
+      internalID: 1880051742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df495839805974f8ba344eed727c58
+      internalID: -660935992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 101
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df218735663ba4c40839a620c86a7359
+      internalID: 2020953755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 122
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40cab77c0e73f24f9b04bb57f780416
+      internalID: 380827089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      weapon_tilemap_0: -1230168739
+      weapon_tilemap_1: 1880051742
+      weapon_tilemap_10: -704896400
+      weapon_tilemap_11: -407468781
+      weapon_tilemap_12: -358792651
+      weapon_tilemap_13: 1754358864
+      weapon_tilemap_14: -717550661
+      weapon_tilemap_15: 1748732673
+      weapon_tilemap_16: -496622485
+      weapon_tilemap_17: 1993377938
+      weapon_tilemap_18: 1232160485
+      weapon_tilemap_19: 1626957012
+      weapon_tilemap_2: -660935992
+      weapon_tilemap_20: -1176651225
+      weapon_tilemap_21: -763689800
+      weapon_tilemap_22: 2079929966
+      weapon_tilemap_23: 438217630
+      weapon_tilemap_24: -232598126
+      weapon_tilemap_25: 277687637
+      weapon_tilemap_26: -1283027045
+      weapon_tilemap_27: 906193188
+      weapon_tilemap_28: 2143916725
+      weapon_tilemap_29: 562429469
+      weapon_tilemap_3: 2020953755
+      weapon_tilemap_30: 92519666
+      weapon_tilemap_31: 2067468824
+      weapon_tilemap_32: 15643498
+      weapon_tilemap_33: -464675759
+      weapon_tilemap_34: -533758038
+      weapon_tilemap_35: 1118395423
+      weapon_tilemap_36: 1481457405
+      weapon_tilemap_37: 2117308683
+      weapon_tilemap_38: -1013504308
+      weapon_tilemap_39: -1696407886
+      weapon_tilemap_4: 380827089
+      weapon_tilemap_40: -141357116
+      weapon_tilemap_41: -104494093
+      weapon_tilemap_42: -909869113
+      weapon_tilemap_43: -1015335697
+      weapon_tilemap_44: 76127348
+      weapon_tilemap_45: 1053159324
+      weapon_tilemap_46: 2011961825
+      weapon_tilemap_47: -1340949561
+      weapon_tilemap_48: 1579295404
+      weapon_tilemap_49: -2120062458
+      weapon_tilemap_5: -1710737493
+      weapon_tilemap_50: 605116006
+      weapon_tilemap_51: 894162754
+      weapon_tilemap_52: -531279926
+      weapon_tilemap_53: -1513252206
+      weapon_tilemap_54: 2077775660
+      weapon_tilemap_6: -1218187722
+      weapon_tilemap_7: -381782349
+      weapon_tilemap_8: 1255415265
+      weapon_tilemap_9: 1732445538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
