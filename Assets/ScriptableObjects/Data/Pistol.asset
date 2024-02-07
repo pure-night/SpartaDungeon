@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa91f58a4f8494c4b954e367538c4815, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  itemKey: pistol
+  displayName: Pistol
+  description: A simple pistol.
+  type: 0
+  icon: {fileID: -2120062458, guid: 651cfc57b6cc1fe4daea48d62af18099, type: 3}
+  dropPrefab: {fileID: 1682599231231366698, guid: 6ef753e07498c5b4d98d1535f3baf437,
+    type: 3}
+  canStack: 0
+  maxStackAmount: 0
+  additionalItemStats:
+  - type: 1
+    value: 5
+  equipPrefab: {fileID: 1682599231231366698, guid: 6ef753e07498c5b4d98d1535f3baf437,
+    type: 3}
+  statMultiplier:
+    statsChangeType: 0
+    maxHealth: 0
+    power: 5
+    defense: 0
+    attackSpeed: 0
+    reloadSpeed: 0
+    moveSpeed: 0
+    numberOfProjectilesPerShot: 0
+    statSo: {fileID: 0}
